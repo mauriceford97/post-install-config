@@ -56,3 +56,14 @@ configuring departments, departments categorize tickets and route them to the ri
 Configure teams, teams group multiple agents for easier ticket handling. 1. Go to Admin Panel then Agents then Teams. 2. Add new team. 3. team name for example online banking. 4. Add members; Assign agents to the team, Assign a team lead if needed. Then click create team. Now tickets can be assigned to a team, and agents within the team can collaborate.
 </p>
 <br />ost-install-config
+
+Now we want to allow anyone to create tickets, so to do that go to the admin panel, click settings, then go to users settings and make sure registration required is unchecked.
+
+Configure Agents, Agents are the help desk workers who log in to answer and manage tickets.
+ <img width="890" height="517" alt="image" src="https://github.com/user-attachments/assets/f3f594b5-cb75-4826-b7d1-b5d43d562a20" />
+
+ To configure Agents Go to Admin Panel the Agents then Add New.
+ <img width="881" height="883" alt="image" src="https://github.com/user-attachments/assets/03c263c1-a9ea-4bc8-af91-316ed77bba84" />
+
+ Here is where we will add the name, email and the username of the 2 agents and create a password.Then we assigned them to a department, then assigned to a role, then assigned them to a team. Then we hit create  
+
