@@ -65,5 +65,17 @@ Configure Agents, Agents are the help desk workers who log in to answer and mana
  To configure Agents Go to Admin Panel the Agents then Add New.
  <img width="881" height="883" alt="image" src="https://github.com/user-attachments/assets/03c263c1-a9ea-4bc8-af91-316ed77bba84" />
 
- Here is where we will add the name, email and the username of the 2 agents and create a password.Then we assigned them to a department, then assigned to a role, then assigned them to a team. Then we hit create  
+ Here is where we will add the name, email and the username of the 2 agents and create a password.Then we assigned them to a department, then assigned to a role, then assigned them to a team. Then we hit create
+
+ <img width="880" height="891" alt="image" src="https://github.com/user-attachments/assets/6f672d0d-d6cf-4e31-a033-06b94e980fce" />
+ now we are configuring users, in osticket , users=customers/end-users, not staff. User configuration is about who can open tickets and how they're identified. 1. Go to Admin Panel then settings then users. 2. Then you fill in email address, full name, username (if enabled), phone number (optional). osticket identifies users mainly by email. then you click create.
+
+ <img width="894" height="893" alt="image" src="https://github.com/user-attachments/assets/0b0d19d0-a64a-4385-9552-97b4a9c9dce5" />
+ configure SLA, SLA stands for service level agreement its basically how fast staff must reply, how fast the ticket must be resolved. For example Sev-A 1 hour meaning critical. Sev-B 4 hours meaning high. Sev-c meaning standard less critical or high  1. Go to Admin Panel.2. hit manage then hit SLA. 3. Click Add New SLA Plan. 4. fill in name (standard sla, critical sla etc.). grace period(response)- time allowed before first response. grace period(resolution)- time allowed to resolve. schedule 24/7 meaning seven days a week, 24/5 meaning 5 days a week , business hours then click save.
+
+ <img width="889" height="905" alt="image" src="https://github.com/user-attachments/assets/cc554e4f-d236-47cb-9aee-2656b0ce036b" />
+ lastly we will configure help topics, help topics are categories that describe why a user is opening a ticket. For example business critical outage, personal computer issues, equipment request,password reset, and other. 1. Go To Admin Panel, Click manage then help topics. 2. Click add new help topic then fill in topic name, parent topic used to create categories example report a problem, general inquiry etc. then click add topic.
+
+
+
 
